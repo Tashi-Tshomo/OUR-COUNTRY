@@ -1,0 +1,10 @@
+body{
+    background-image: url(images/a.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+p{
+    color: cornsilk;
+}
+    

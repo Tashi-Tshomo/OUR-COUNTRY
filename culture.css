@@ -1,0 +1,22 @@
+p{
+    align-items: flex-start;
+    color: rgb(246, 246, 248);
+}
+img{
+    height: 250px;
+    width:200px ;
+    float:right;
+
+}
+.mm{
+    float: right;
+}
+body{
+    background-image: url(images/bh.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+h1{
+    forced-color-adjust: initial;
+}

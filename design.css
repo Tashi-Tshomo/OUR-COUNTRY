@@ -1,0 +1,31 @@
+nav {
+    background-color: rgb(238, 224, 96);
+    float: center;
+    color: aliceblue;
+}
+
+nav a:hover{
+    background-color:rgb(219, 136, 27);
+}
+p{
+    font-size: 20px;
+    color: #0a0a22be;
+}
+
+img{
+    height: 300px;
+    width: 600px;
+}
+body{
+    background-image: url(images/fa.webp);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+nav {
+  display: flex;
+  gap: 60px;
+  padding: 25px;
+}
+
+
